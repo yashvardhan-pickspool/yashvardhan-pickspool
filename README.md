@@ -27,9 +27,12 @@
 
 I'm a **product engineer** who likes owning the whole loop: understanding the problem, designing the system, building a polished interface, shipping it, and iterating on real feedback. I care about products that feel fast, look sharp, and scale cleanly.
 
+
+
 ```typescript
 const yashvardhan = {
   name: "Yashvardhan Singh",
+  github: "yashvardhansingh-x5x",
   location: "India 🇮🇳",
   role: "Product Engineer",
   frontend: ["Next.js", "React", "Tailwind CSS", "GSAP"],
